@@ -1,7 +1,7 @@
 #tick tock
 #2022.01.16 ~ 17
 #22.01.06 : All
-#22.01.07 : white line
+#22.01.07 : white line plus
 
 import numpy as np
 import cv2
